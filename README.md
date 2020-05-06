@@ -27,6 +27,7 @@ It is a Jupyter Notebook which contains code as well as is structured to underst
 As per Udacity Data Scientist Nanodegree project, I was asked to write a Data science blogpost using CRISP-DM. I was intriguted to analyze and find business related questions about airbnb listings for Boston. The main motivation to complete this project was to doing my first project for Udacity.
 
 ## Summary
+https://medium.com/@rishabhkapoor2001/stay-in-boston-made-easier-with-airbnb-538843f2ce50
 
 ## Acknowledgement
 The project is formulated by Udacity as a part of Data Scientist Nanodegree Program and the dataset is part of Airbnb which has been provided by Kaggle.
