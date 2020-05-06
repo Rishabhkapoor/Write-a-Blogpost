@@ -10,9 +10,9 @@ In this project we are going to use the CRISP - DM technique to answer a few que
 4. What type of accommodation do guests prefer the most?
 
 ## Installations and Imports
-This project has been written in Pyhton 3 and it contains the following libraries:
-1. Numpy
-2. Pandas
+This project has been written in Python 3 on a jupyter notebook and it contains the following libraries:
+1. Pandas
+2. Numpy
 3. Seaborn
 4. MatplotLib
 5. Plotly.express
