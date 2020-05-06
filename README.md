@@ -17,9 +17,7 @@ This project has been written in Python 3 on a jupyter notebook and it contains 
 4. MatplotLib
 5. Plotly.express
 
-## Files present in the repository
-### Data
-It consists .csv files from which data for the project is accessed.
+## File present in the repository
 ### airpbnb.ipynb
 It is a Jupyter Notebook which contains code as well as is structured to understand the course of analysis.
 
